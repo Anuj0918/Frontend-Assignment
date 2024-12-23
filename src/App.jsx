@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Signup from "./components/Signup";
-import RepoScreen from "./components/Reposcreen";
+import RepoScreen from "./components/RepoScreen";
 
 function App() {
   return (
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
